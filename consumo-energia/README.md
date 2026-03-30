@@ -63,7 +63,7 @@ Basta colar o código e executar.
 
 Abra o terminal (Prompt de Comando ou PowerShell)
 Navegue até a pasta onde está o arquivo:
-```bashcd caminho/da/pasta```bash
+```bash cd caminho/da/pasta bash```
 
 🖥️ 3. Executando pelo Visual Studio Code
 Abra o VS Code
