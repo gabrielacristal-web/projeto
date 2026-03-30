@@ -38,6 +38,8 @@ E o custo estimado:
 
 custo = consumoMensal * 0.75
 
+---
+
 ## ▶️ Como executar o programa
 
 ### 🌐 1. Executando online (sem instalar nada)
@@ -61,7 +63,7 @@ Clique em File > Open Folder e selecione a pasta do projeto
 Abra o arquivo .py
 Clique em Run ▶️ ou pressione Ctrl + F5
 
-###🐍 4. Executando pelo IDLE (Python padrão)
+### 🐍 4. Executando pelo IDLE (Python padrão)
 Abra o IDLE
 Clique em File > Open
 Selecione o arquivo do programa
