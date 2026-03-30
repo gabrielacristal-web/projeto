@@ -59,20 +59,19 @@ Google Colab
 
 Basta colar o código e executar.
 
-💻 2. Executando pelo terminal (recomendado)
+###💻 2. Executando pelo terminal (recomendado)
 
 Abra o terminal (Prompt de Comando ou PowerShell)
 Navegue até a pasta onde está o arquivo:
 ```cd caminho/da/pasta```
 
-
-🖥️ 3. Executando pelo Visual Studio Code
+###🖥️ 3. Executando pelo Visual Studio Code
 Abra o VS Code
 Clique em File > Open Folder e selecione a pasta do projeto
 Abra o arquivo .py
 Clique em Run ▶️ ou pressione Ctrl + F5
 
-🐍 3. Executando pelo IDLE (Python padrão)
+###🐍 4. Executando pelo IDLE (Python padrão)
 Abra o IDLE
 Clique em File > Open
 Selecione o arquivo do programa
