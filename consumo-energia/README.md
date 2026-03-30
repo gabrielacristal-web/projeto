@@ -38,16 +38,6 @@ E o custo estimado:
 
 custo = consumoMensal * 0.75
 
-Exemplo de uso:
-Digite o nome do eletrodoméstico: Geladeira
-Digite a potência do aparelho em watts (W): 150
-Qual o tempo médio de uso diário (em horas)? 10
-
---- Resultado ---
-Aparelho: Geladeira
-Consumo estimado: 45.00 kWh/mês
-Custo estimado: R$ 33.75
-
 ## ▶️ Como executar o programa
 
 ### 🌐 1. Executando online (sem instalar nada)
@@ -59,13 +49,13 @@ Google Colab
 
 Basta colar o código e executar.
 
-###💻 2. Executando pelo terminal (recomendado)
+### 💻 2. Executando pelo terminal (recomendado)
 
 Abra o terminal (Prompt de Comando ou PowerShell)
 Navegue até a pasta onde está o arquivo:
 ```cd caminho/da/pasta```
 
-###🖥️ 3. Executando pelo Visual Studio Code
+### 🖥️ 3. Executando pelo Visual Studio Code
 Abra o VS Code
 Clique em File > Open Folder e selecione a pasta do projeto
 Abra o arquivo .py
