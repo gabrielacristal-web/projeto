@@ -24,7 +24,7 @@ Ajudar usuários a entenderem melhor o consumo de energia dos seus aparelhos e p
 
 ---
 
-## 🖥️ Linguagem utilizada
+## 🧑‍💻 Linguagem utilizada
 - 🐍 Python
 
 ---
@@ -49,7 +49,7 @@ Google Colab
 
 Basta colar o código e executar.
 
-### 💻 2. Executando pelo terminal (recomendado)
+### 📟 2. Executando pelo terminal
 
 Abra o terminal (Prompt de Comando ou PowerShell)
 Navegue até a pasta onde está o arquivo:
